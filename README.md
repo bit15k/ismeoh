@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ismeoh&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) -->
-## stats
+## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismeoh&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismeoh&theme=github_dark)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ismeoh&theme=github_dark&utcOffset=8)
